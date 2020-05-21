@@ -1,6 +1,8 @@
 # Milestone1-GLM
 
-This is my first milestone project in the Full Stack web developer course. It is a website for a small car and motorbike repairs and motor trader business.
+This is my first milestone project in the Full Stack web developer course. 
+
+It is a website for a small car and motorbike repairs and motor trader business.
 
 ## UX
 
@@ -38,11 +40,11 @@ the website.
 
 ### Existing Features
 * **Header**-contains company name and logo, navigation links and basic contact details.
-* **Footer**- links to social media pages and copyright information
-* **Home page** – contains a short introduction and a list of services provided by the garage
-* **Parts page**-users can access the list of available car and motorbike parts via clicking on the links leading to external sites.
-*  **Cars&Bikes page**- images and details of cars and motorbikes currently for sale. By clicking on the images the photo will be enlarged. 
-* **Contact page**-informs the user about the address of the business and opening times; features a Google maps snippet which shows the location of the garage which leads to the Google Maps website when clicking on it. The page also features a contact form that allows users to send a message to the business directly.
+* **Footer**- links to **social media** pages and **copyright** information
+* **Home page** – contains a short introduction and a list of **services** provided by the garage
+* **Parts page**-users can access available car and motorbike parts via clicking on the **links** leading to external sites.
+*  **Cars&Bikes page**- **photo gallery** and description of cars and motorbikes currently for sale. By clicking on the images the photo will be enlarged. 
+* **Contact page**-informs the user about the **address** of the business and **opening times**; features a **Google maps** snippet which shows the location of the garage which leads to the Google Maps website when clicking on it. The page also features a **contact form** that allows users to send a message to the business directly.
 
 ### Features Left to Implement
 
@@ -51,6 +53,7 @@ the website.
 enquiry, I have something for sale, etc.)  Animated image gallery with professional photos of the cars for sale
 * Language options
 * News section
+* Client testimonials
 
 ## Technologies Used
 
