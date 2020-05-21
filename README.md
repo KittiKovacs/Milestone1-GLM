@@ -37,9 +37,9 @@ the website.
 ## Features
 
 ### Existing Features
-* **Header**-contains company name and logo, navigation links and basic contact details. By clicking on the logo on any page the user will arrive at the homepage. 
+* **Header**-contains company name and logo, navigation links and basic contact details.
 * **Footer**- links to social media pages and copyright information
-* **Home page** – contains an introduction and a list of services provided by the garage
+* **Home page** – contains a short introduction and a list of services provided by the garage
 * **Parts page**-users can access the list of available car and motorbike parts via clicking on the links leading to external trading sites
 *  **Cars&Bikes page**- images and details of cars and motorbikes currently for
 sale. By clicking on the images the photo will be enlarged. 
