@@ -6,6 +6,7 @@ img{
 }
 .navbar-brand{
     font-size:40px;
+    margin-right:100px;
 }
 .navbar.navbar-expand-lg.navbar-light.bg-light{
     font-size: 20px;
@@ -46,7 +47,8 @@ img{
   position:relative;
 }
 .callout.jumbotron.text-center{
-    background-color:rgba(9, 10, 10, 0.8)
+    background-color:rgba(9, 10, 10, 0.8);
+    margin-top:40px;
 }
 .opaque-overlay{
     position:absolute;
@@ -54,7 +56,7 @@ img{
     left:0;
     height:100%;
     width:100%;
-    background-color: rgba(0, 0, 0, 0.8);
+    background-color: rgba(0, 0, 0, 0.5);
 }
 .jumbotron-header{
  font-family: "Cabin", sans-serif;
@@ -64,17 +66,18 @@ img{
 .intro-message{
     font-family: "Cabin", sans-serif;
     color:#ffffff;
-    font-size: 20px;
-    margin-bottom:20px;
+    font-size: 22px;
 }
 .services{
     font-family: "Cabin", sans-serif;
     color:#ffffff;
     font-size: 20px;
     list-style-type: circle;
-    margin-left:5px;
-    text-align:left;
+    list-style-position: inside;
+    text-align:center;
+    padding: 10px;
 }
+/*Footer*/
 
 /*Parts*/
 
