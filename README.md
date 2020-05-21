@@ -42,7 +42,7 @@ the website.
 * **Header**-contains company name and logo, navigation links and basic contact details.
 * **Footer**- links to **social media** pages and **copyright** information
 * **Home page** – contains a short introduction and a list of **services** provided by the garage
-* **Parts page**-users can access available car and motorbike parts via clicking on the **links** leading to external sites.
+* **Parts page**-users can see what car and motorbike parts are available by clicking on the **links** leading to external sites.
 *  **Cars&Bikes page**- **photo gallery** and description of cars and motorbikes currently for sale. By clicking on the images the photo will be enlarged. 
 * **Contact page**-informs the user about the **address** of the business and **opening times**; features a **Google maps** snippet which shows the location of the garage which leads to the Google Maps website when clicking on it. The page also features a **contact form** that allows users to send a message to the business directly.
 
