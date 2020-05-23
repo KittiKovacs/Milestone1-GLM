@@ -18,7 +18,7 @@ img{
 }
 
 .nav-item.active{
-    border-bottom: 3px solid red;
+    border-bottom: 3px solid #EB1212;
 }
 .nav-item:hover{
     background-color: #ddd;
@@ -60,7 +60,7 @@ img{
 }
 .jumbotron-header{
  font-family: "Cabin", sans-serif;
- color:red;
+ color:#EB1212;
  margin-bottom:30px;
 }
 .intro-message{
@@ -72,12 +72,55 @@ img{
     font-family: "Cabin", sans-serif;
     color:#ffffff;
     font-size: 20px;
-    list-style-type: circle;
-    list-style-position: inside;
+    list-style-type: none;
     text-align:center;
     padding: 10px;
 }
+li i{
+    margin-right:10px;
+}
+.intro-message-bottom{
+    font-family: "Cabin", sans-serif;
+    color:#ffffff;
+    font-size: 22px;
+    line-height:200%;
+}
 /*Footer*/
+footer{
+    background-color:black;
+    color:#ffffff;
+}
+.social-links{
+    text-align: center;
+    padding:15px;
+}
+.social-links li a{
+    font-family: "Cabin", sans-serif;
+    text-decoration:none;
+    color:#ffffff;
+    font-size:20px;
+}
+.social-links li a i {
+    width: 40px;
+    height: 40px;
+    padding: 12px 0;
+    border-radius: 50%;
+    font-size: 26px;
+    line-height: 14px;
+    text-align: center;
+    color: #fafafa;
+    background: #1E6D9E;
+    transition: all 0.6s ease-in-out;
+    -moz-transition: all 0.6s ease-in-out;
+    -webkit-transition: all 0.6s ease-in-out;
+    -o-transition: all 0.6s ease-in-out;
+}
+
+.social-links li a i:hover {
+    color: #1E6D9E;
+    background-color:#ffffff;
+}
+
 
 /*Parts*/
 
