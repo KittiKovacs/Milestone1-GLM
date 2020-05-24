@@ -133,8 +133,8 @@ footer{
     color:#ffffff;
     font-size: 22px;
     text-align:center;
-    background-color:rgba(53, 54, 54, 0.774);
-    margin:30px  0px;
+    background-color:rgba(9, 10, 10, 0.8);
+    margin-top:30px;
 }
 #title{
     margin-top: 20px;
@@ -142,7 +142,17 @@ footer{
 }
 #content{
     font-size: 20px;
-    margin: 0px 90px;
+    margin: 0px 90px 20px 90px;
     text-align:justify;
 }
+.link-container{
+    background-color: rgb(180, 182, 178);
+    height:200px;
+}
 
+.ebay-link{
+
+}
+.gumtree-link{
+
+}
