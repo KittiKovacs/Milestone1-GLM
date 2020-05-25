@@ -99,7 +99,7 @@ footer{
 }
 .social-links{
     text-align: center;
-    padding:15px;
+    padding:3px;
 }
 .social-links li a{
     text-decoration:none;
@@ -134,7 +134,7 @@ footer{
     font-size: 22px;
     text-align:center;
     background-color:rgba(9, 10, 10, 0.8);
-    margin-top:30px;
+    padding-top:20px;
 }
 #title{
     margin-top: 20px;
@@ -145,14 +145,25 @@ footer{
     margin: 0px 90px 20px 90px;
     text-align:justify;
 }
-.link-container{
+.webshop{
     background-color: rgb(180, 182, 178);
-    height:200px;
+    height:auto;
+    text-align:center;
+    font-family: "Cabin", sans-serif;
+    color:#EB1212;
+    padding-top:30px;
+    margin:0px;
 }
 
-.ebay-link{
-
+.webshop-links{
+    width: 100px;
+    height: 100px;
+    padding: 12px 0;
+    background-color: rgb(180, 182, 178);
+    text-align: center;
 }
-.gumtree-link{
-
+.icon{
+    height:45px;
+    width:45px;
 }
+
