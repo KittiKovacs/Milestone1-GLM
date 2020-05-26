@@ -66,3 +66,13 @@ Bootstrap
 
 ## Credits
 
+Code Institute course material
+Bootstrap
+Font Awesome
+Google Fonts
+w3schools
+my Tutor Guido Cecilio GArcia Bernal
+Image source: Pexels, own photos
+
+
+
